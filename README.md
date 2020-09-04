@@ -6,8 +6,8 @@
 > 4. Number of students below their grade average
 
 #### Associations
-> School has many ClassRooms
-> ClassRoom has many Students
+> - School has many ClassRooms
+> - ClassRoom has many Students
 
 #### Ruby command to generate score card
 ```
